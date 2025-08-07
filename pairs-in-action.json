@@ -1,11 +1,35 @@
 {
     "scoreMatrix": [
         {
+            "currency": "CHF",
+            "scores": [
+                -3
+            ],
+            "avg": -3.0
+        },
+        {
             "currency": "USD",
             "scores": [
-                -4
+                -4,
+                -3
             ],
-            "avg": -4.0
+            "avg": -3.5
+        },
+        {
+            "currency": "NZD",
+            "scores": [
+                -2,
+                -2,
+                -3
+            ],
+            "avg": -2.3333333333333335
+        },
+        {
+            "currency": "GBP",
+            "scores": [
+                -2
+            ],
+            "avg": -2.0
         },
         {
             "currency": "CAD",
