@@ -5,6 +5,14 @@
             "timeRange": "7:00 AM - 5:00 PM CT",
             "breaches": [
                 {
+                    "pair": "USDCAD",
+                    "type": "LOW",
+                    "pips": 3.999471664428711,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-26T09:22:00-05:00",
+                    "time": "09:22:00"
+                },
+                {
                     "pair": "EURCAD",
                     "type": "HIGH",
                     "pips": 5.600452423095703,
@@ -31,7 +39,7 @@
                 {
                     "pair": "NZDCAD",
                     "type": "HIGH",
-                    "pips": 3.4999847412109375,
+                    "pips": 3.70025634765625,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T07:00:00-05:00",
                     "time": "07:00:00"
@@ -39,7 +47,7 @@
                 {
                     "pair": "EURUSD",
                     "type": "HIGH",
-                    "pips": 1.360177993774414,
+                    "pips": 2.721548080444336,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T07:06:00-05:00",
                     "time": "07:06:00"
@@ -63,7 +71,7 @@
                 {
                     "pair": "NZDUSD",
                     "type": "HIGH",
-                    "pips": 1.71661376953125,
+                    "pips": 2.403855323791504,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T07:02:00-05:00",
                     "time": "07:02:00"
@@ -87,7 +95,7 @@
                 {
                     "pair": "EURGBP",
                     "type": "HIGH",
-                    "pips": 4.000067710876465,
+                    "pips": 5.199909210205078,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T07:07:00-05:00",
                     "time": "07:07:00"
@@ -159,7 +167,7 @@
                 {
                     "pair": "EURJPY",
                     "type": "HIGH",
-                    "pips": 1299.896240234375,
+                    "pips": 1669.921875,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T08:12:00-05:00",
                     "time": "08:12:00"
@@ -167,7 +175,7 @@
                 {
                     "pair": "GBPJPY",
                     "type": "HIGH",
-                    "pips": 210.113525390625,
+                    "pips": 429.99267578125,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T08:45:00-05:00",
                     "time": "08:45:00"
@@ -175,7 +183,7 @@
                 {
                     "pair": "CHFJPY",
                     "type": "HIGH",
-                    "pips": 2440.032958984375,
+                    "pips": 2639.923095703125,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T07:16:00-05:00",
                     "time": "07:16:00"
@@ -183,7 +191,7 @@
                 {
                     "pair": "AUDJPY",
                     "type": "HIGH",
-                    "pips": 189.971923828125,
+                    "pips": 289.9932861328125,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-26T09:16:00-05:00",
                     "time": "09:16:00"
@@ -193,13 +201,13 @@
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.4043629228826817,
-        "EUR": 0.35621341344996515,
-        "GBP": 0.2179099636269457,
-        "CAD": 0.2552908717763488,
-        "CHF": 0.41470210696106624,
-        "AUD": 0.3489762866836147,
-        "NZD": 0.27658850396595924,
-        "JPY": 0.6703749490651002
+        "USD": 0.40880938722664467,
+        "EUR": 0.3567362383780378,
+        "GBP": 0.21912153239657373,
+        "CAD": 0.25482257929532165,
+        "CHF": 0.4150756951992675,
+        "AUD": 0.3470342866975722,
+        "NZD": 0.27959975464441567,
+        "JPY": 0.6687283910534174
     }
 }
