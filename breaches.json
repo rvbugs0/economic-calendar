@@ -5,6 +5,54 @@
             "timeRange": "7:00 AM - 5:00 PM CT",
             "breaches": [
                 {
+                    "pair": "EURCHF",
+                    "type": "LOW",
+                    "pips": 5.0002336502075195,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-27T07:32:00-05:00",
+                    "time": "07:32:00"
+                },
+                {
+                    "pair": "GBPNZD",
+                    "type": "HIGH",
+                    "pips": 0.5984306335449219,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-27T07:36:00-05:00",
+                    "time": "07:36:00"
+                },
+                {
+                    "pair": "GBPCHF",
+                    "type": "LOW",
+                    "pips": 5.900859832763672,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-27T07:32:00-05:00",
+                    "time": "07:32:00"
+                },
+                {
+                    "pair": "NZDCHF",
+                    "type": "LOW",
+                    "pips": 3.0997395515441895,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-27T07:32:00-05:00",
+                    "time": "07:32:00"
+                },
+                {
+                    "pair": "AUDNZD",
+                    "type": "HIGH",
+                    "pips": 0.9000301361083984,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-27T07:35:00-05:00",
+                    "time": "07:35:00"
+                },
+                {
+                    "pair": "AUDCHF",
+                    "type": "LOW",
+                    "pips": 3.1000375747680664,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-27T07:32:00-05:00",
+                    "time": "07:32:00"
+                },
+                {
                     "pair": "EURJPY",
                     "type": "HIGH",
                     "pips": 210.113525390625,
@@ -23,7 +71,7 @@
                 {
                     "pair": "CHFJPY",
                     "type": "HIGH",
-                    "pips": 1549.98779296875,
+                    "pips": 2250.06103515625,
                     "previousSession": "LONDON",
                     "timestamp": "2025-08-27T07:20:00-05:00",
                     "time": "07:20:00"
@@ -33,13 +81,13 @@
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.314789800370537,
-        "EUR": 0.30406361844803814,
-        "GBP": 0.23096846349204453,
-        "CAD": 0.17836677925429384,
-        "CHF": 0.3607587992395476,
-        "AUD": 0.4773767789924704,
-        "NZD": 0.318202680789034,
-        "JPY": 0.6244582429311791
+        "USD": 0.3140569068002846,
+        "EUR": 0.30285444199635425,
+        "GBP": 0.22861130262945265,
+        "CAD": 0.17885420370386498,
+        "CHF": 0.36896839302152123,
+        "AUD": 0.4767112139317927,
+        "NZD": 0.32014162692171977,
+        "JPY": 0.6234464618737576
     }
 }
