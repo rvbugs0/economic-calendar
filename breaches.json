@@ -5,6 +5,22 @@
             "timeRange": "7:00 AM - 5:00 PM CT",
             "breaches": [
                 {
+                    "pair": "USDCAD",
+                    "type": "HIGH",
+                    "pips": 21.799802780151367,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-29T07:30:00-05:00",
+                    "time": "07:30:00"
+                },
+                {
+                    "pair": "USDCAD",
+                    "type": "LOW",
+                    "pips": 10.999441146850586,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-08-29T09:26:00-05:00",
+                    "time": "09:26:00"
+                },
+                {
                     "pair": "EURCAD",
                     "type": "HIGH",
                     "pips": 14.899969100952148,
@@ -343,14 +359,14 @@
             ]
         }
     },
-    "currentSession": "LONDON",
+    "currentSession": "NY",
     "correlations": {
-        "USD": 0.467136528287355,
+        "USD": 0.38561472039084776,
         "EUR": 0.2664167109986798,
         "GBP": 0.33235696431943396,
-        "CAD": 0.4321502096650093,
+        "CAD": 0.33436223081574634,
         "CHF": 0.4309353180145469,
-        "AUD": 0.22701551352678764,
+        "AUD": 0.2277527432722253,
         "NZD": 0.2427908448996994,
         "JPY": 0.5649052367660047
     }
