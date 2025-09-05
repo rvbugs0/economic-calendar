@@ -1,16 +1,6 @@
 {
     "scoreMatrix": [
         {
-            "currency": "USD",
-            "scores": [
-                2,
-                0,
-                -3,
-                -3
-            ],
-            "avg": -1.0
-        },
-        {
             "currency": "GBP",
             "scores": [
                 2
@@ -20,10 +10,20 @@
         {
             "currency": "CAD",
             "scores": [
+                -2,
                 -4,
                 -3
             ],
-            "avg": -3.5
+            "avg": -3.0
+        },
+        {
+            "currency": "USD",
+            "scores": [
+                0,
+                -3,
+                -3
+            ],
+            "avg": -2.0
         }
     ]
 }
