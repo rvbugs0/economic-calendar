@@ -1,3 +1,66 @@
 {
-    "scoreMatrix": []
+    "scoreMatrix": [
+        {
+            "currency": "USD",
+            "scores": [
+                -2,
+                2,
+                2,
+                0,
+                -2,
+                3
+            ],
+            "avg": 0.5
+        },
+        {
+            "currency": "GBP",
+            "scores": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "avg": 1.0
+        },
+        {
+            "currency": "EUR",
+            "scores": [
+                2
+            ],
+            "avg": 2.0
+        },
+        {
+            "currency": "CAD",
+            "scores": [
+                -3,
+                -3,
+                0,
+                -3,
+                -2
+            ],
+            "avg": -2.2
+        },
+        {
+            "currency": "NZD",
+            "scores": [
+                -3
+            ],
+            "avg": -3.0
+        },
+        {
+            "currency": "AUD",
+            "scores": [
+                -2,
+                0
+            ],
+            "avg": -1.0
+        },
+        {
+            "currency": "JPY",
+            "scores": [
+                0
+            ],
+            "avg": 0.0
+        }
+    ]
 }
