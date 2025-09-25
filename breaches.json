@@ -21,22 +21,6 @@
                     "time": "07:05:00"
                 },
                 {
-                    "pair": "EURCAD",
-                    "type": "LOW",
-                    "pips": 75.90055465698242,
-                    "previousSession": "LONDON",
-                    "timestamp": "2025-09-25T07:14:00-05:00",
-                    "time": "07:14:00"
-                },
-                {
-                    "pair": "GBPCAD",
-                    "type": "LOW",
-                    "pips": 93.10007095336914,
-                    "previousSession": "LONDON",
-                    "timestamp": "2025-09-25T07:12:00-05:00",
-                    "time": "07:12:00"
-                },
-                {
                     "pair": "CADCHF",
                     "type": "HIGH",
                     "pips": 17.39978790283203,
@@ -69,12 +53,12 @@
                     "time": "07:30:00"
                 },
                 {
-                    "pair": "GBPUSD",
-                    "type": "LOW",
-                    "pips": 93.69850158691406,
+                    "pair": "USDJPY",
+                    "type": "HIGH",
+                    "pips": 10349.884033203125,
                     "previousSession": "LONDON",
-                    "timestamp": "2025-09-25T07:07:00-05:00",
-                    "time": "07:07:00"
+                    "timestamp": "2025-09-25T07:30:00-05:00",
+                    "time": "07:30:00"
                 },
                 {
                     "pair": "USDCHF",
@@ -85,6 +69,14 @@
                     "time": "07:30:00"
                 },
                 {
+                    "pair": "NZDUSD",
+                    "type": "LOW",
+                    "pips": 51.57589912414551,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-25T07:00:00-05:00",
+                    "time": "07:00:00"
+                },
+                {
                     "pair": "EURNZD",
                     "type": "HIGH",
                     "pips": 47.59788513183594,
@@ -93,28 +85,20 @@
                     "time": "07:00:00"
                 },
                 {
-                    "pair": "EURCHF",
-                    "type": "HIGH",
-                    "pips": 1.0001659393310547,
-                    "previousSession": "LONDON",
-                    "timestamp": "2025-09-25T08:05:00-05:00",
-                    "time": "08:05:00"
-                },
-                {
-                    "pair": "EURCHF",
-                    "type": "LOW",
-                    "pips": 11.70039176940918,
-                    "previousSession": "LONDON",
-                    "timestamp": "2025-09-25T08:54:00-05:00",
-                    "time": "08:54:00"
-                },
-                {
                     "pair": "EURAUD",
                     "type": "HIGH",
                     "pips": 23.200511932373047,
                     "previousSession": "LONDON",
                     "timestamp": "2025-09-25T07:00:00-05:00",
                     "time": "07:00:00"
+                },
+                {
+                    "pair": "EURGBP",
+                    "type": "HIGH",
+                    "pips": 2.99990177154541,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-25T07:01:00-05:00",
+                    "time": "07:01:00"
                 },
                 {
                     "pair": "GBPNZD",
@@ -257,13 +241,13 @@
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.4140461428499377,
-        "EUR": 0.22266964360181427,
-        "GBP": 0.24822146015263263,
-        "CAD": 0.24519620503097045,
-        "CHF": 0.31711265332094746,
-        "AUD": 0.37313121162062607,
-        "NZD": 0.18487071760652252,
-        "JPY": 0.4384152800497881
+        "USD": 0.41091916512443505,
+        "EUR": 0.2526754875722393,
+        "GBP": 0.27575801519560167,
+        "CAD": 0.14527367307713432,
+        "CHF": 0.2749823548542455,
+        "AUD": 0.3670283161999703,
+        "NZD": 0.2003617616770982,
+        "JPY": 0.4306392227373082
     }
 }
