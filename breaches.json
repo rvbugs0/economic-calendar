@@ -13,22 +13,6 @@
                     "time": "07:31:00"
                 },
                 {
-                    "pair": "EURCAD",
-                    "type": "HIGH",
-                    "pips": 17.299652099609375,
-                    "previousSession": "LONDON",
-                    "timestamp": "2025-09-26T09:13:00-05:00",
-                    "time": "09:13:00"
-                },
-                {
-                    "pair": "EURCAD",
-                    "type": "LOW",
-                    "pips": 3.70025634765625,
-                    "previousSession": "LONDON",
-                    "timestamp": "2025-09-26T07:33:00-05:00",
-                    "time": "07:33:00"
-                },
-                {
                     "pair": "GBPCAD",
                     "type": "HIGH",
                     "pips": 59.09919738769531,
@@ -109,6 +93,14 @@
                     "time": "09:07:00"
                 },
                 {
+                    "pair": "EURCHF",
+                    "type": "LOW",
+                    "pips": 3.7997961044311523,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-26T07:12:00-05:00",
+                    "time": "07:12:00"
+                },
+                {
                     "pair": "EURAUD",
                     "type": "LOW",
                     "pips": 11.000633239746094,
@@ -165,6 +157,22 @@
                     "time": "07:44:00"
                 },
                 {
+                    "pair": "AUDCHF",
+                    "type": "HIGH",
+                    "pips": 3.4999847412109375,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-26T10:07:00-05:00",
+                    "time": "10:07:00"
+                },
+                {
+                    "pair": "AUDCHF",
+                    "type": "LOW",
+                    "pips": 2.200007438659668,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-26T07:30:00-05:00",
+                    "time": "07:30:00"
+                },
+                {
                     "pair": "AUDUSD",
                     "type": "HIGH",
                     "pips": 12.003183364868164,
@@ -187,6 +195,30 @@
                     "previousSession": "LONDON",
                     "timestamp": "2025-09-26T07:40:00-05:00",
                     "time": "07:40:00"
+                },
+                {
+                    "pair": "EURJPY",
+                    "type": "HIGH",
+                    "pips": 339.9658203125,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-26T09:12:00-05:00",
+                    "time": "09:12:00"
+                },
+                {
+                    "pair": "EURJPY",
+                    "type": "LOW",
+                    "pips": 220.03173828125,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-26T07:37:00-05:00",
+                    "time": "07:37:00"
+                },
+                {
+                    "pair": "GBPJPY",
+                    "type": "HIGH",
+                    "pips": 3029.937744140625,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-09-26T07:30:00-05:00",
+                    "time": "07:30:00"
                 },
                 {
                     "pair": "CHFJPY",
@@ -225,13 +257,13 @@
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.3937532961177072,
-        "EUR": 0.31461689858169195,
-        "GBP": 0.32847459103800153,
-        "CAD": 0.28363041024164753,
-        "CHF": 0.2875368801123514,
-        "AUD": 0.3588252406884628,
-        "NZD": 0.35274863867965517,
-        "JPY": 0.4763497329157909
+        "USD": 0.393618010909841,
+        "EUR": 0.22695760237870297,
+        "GBP": 0.3299587791706502,
+        "CAD": 0.23263164637308043,
+        "CHF": 0.3038917771237783,
+        "AUD": 0.38666335774939986,
+        "NZD": 0.3504700034011019,
+        "JPY": 0.5235408636106809
     }
 }
