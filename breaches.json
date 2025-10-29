@@ -6,6 +6,14 @@
             "breaches": [
                 {
                     "pair": "USDCAD",
+                    "type": "HIGH",
+                    "pips": 3.299713134765625,
+                    "previousSession": "LONDON",
+                    "timestamp": "2025-10-29T14:28:00-05:00",
+                    "time": "14:28:00"
+                },
+                {
+                    "pair": "USDCAD",
                     "type": "LOW",
                     "pips": 36.00001335144043,
                     "previousSession": "LONDON",
@@ -39,7 +47,7 @@
                 {
                     "pair": "AUDCAD",
                     "type": "LOW",
-                    "pips": 37.89961338043213,
+                    "pips": 41.09978675842285,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T07:07:00-05:00",
                     "time": "07:07:00"
@@ -63,7 +71,7 @@
                 {
                     "pair": "EURUSD",
                     "type": "LOW",
-                    "pips": 40.39406776428223,
+                    "pips": 41.735172271728516,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T13:35:00-05:00",
                     "time": "13:35:00"
@@ -71,7 +79,7 @@
                 {
                     "pair": "USDJPY",
                     "type": "HIGH",
-                    "pips": 5859.9853515625,
+                    "pips": 5910.0341796875,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T13:01:00-05:00",
                     "time": "13:01:00"
@@ -103,7 +111,7 @@
                 {
                     "pair": "USDCHF",
                     "type": "HIGH",
-                    "pips": 43.9000129699707,
+                    "pips": 46.10002040863037,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T07:40:00-05:00",
                     "time": "07:40:00"
@@ -119,7 +127,7 @@
                 {
                     "pair": "NZDUSD",
                     "type": "LOW",
-                    "pips": 19.609928131103516,
+                    "pips": 22.258758544921875,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T13:36:00-05:00",
                     "time": "13:36:00"
@@ -175,7 +183,7 @@
                 {
                     "pair": "GBPCHF",
                     "type": "HIGH",
-                    "pips": 8.500814437866211,
+                    "pips": 9.40084457397461,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T10:00:00-05:00",
                     "time": "10:00:00"
@@ -183,7 +191,7 @@
                 {
                     "pair": "GBPAUD",
                     "type": "HIGH",
-                    "pips": 2.4008750915527344,
+                    "pips": 6.701946258544922,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T07:11:00-05:00",
                     "time": "07:11:00"
@@ -231,7 +239,7 @@
                 {
                     "pair": "AUDUSD",
                     "type": "LOW",
-                    "pips": 29.004812240600586,
+                    "pips": 31.589865684509277,
                     "previousSession": "LONDON",
                     "timestamp": "2025-10-29T07:20:00-05:00",
                     "time": "07:20:00"
@@ -313,13 +321,13 @@
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.45075879758274,
-        "EUR": 0.17182335244221866,
-        "GBP": 0.3613208462675382,
-        "CAD": 0.23250688021722468,
-        "CHF": 0.33445346690739736,
-        "AUD": 0.6652131246509028,
-        "NZD": 0.3518379931589519,
-        "JPY": 0.6105217200344952
+        "USD": 0.45121552312709573,
+        "EUR": 0.17042671524526934,
+        "GBP": 0.36182530482769376,
+        "CAD": 0.23242798440172235,
+        "CHF": 0.3331720322606663,
+        "AUD": 0.6668849809030603,
+        "NZD": 0.35266257132114087,
+        "JPY": 0.6091896160385147
     }
 }
