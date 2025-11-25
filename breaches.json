@@ -5,86 +5,6 @@
             "timeRange": "2:00 AM - 7:00 AM CT",
             "breaches": [
                 {
-                    "pair": "USDCAD",
-                    "type": "HIGH",
-                    "pips": 1.0001659393310547,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T05:28:00-06:00",
-                    "time": "05:28:00"
-                },
-                {
-                    "pair": "EURCAD",
-                    "type": "HIGH",
-                    "pips": 36.100149154663086,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:47:00-06:00",
-                    "time": "02:47:00"
-                },
-                {
-                    "pair": "GBPCAD",
-                    "type": "HIGH",
-                    "pips": 13.200044631958008,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T03:34:00-06:00",
-                    "time": "03:34:00"
-                },
-                {
-                    "pair": "CADCHF",
-                    "type": "HIGH",
-                    "pips": 7.799863815307617,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:36:00-06:00",
-                    "time": "02:36:00"
-                },
-                {
-                    "pair": "AUDCAD",
-                    "type": "LOW",
-                    "pips": 4.899501800537109,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T05:19:00-06:00",
-                    "time": "05:19:00"
-                },
-                {
-                    "pair": "NZDCAD",
-                    "type": "LOW",
-                    "pips": 1.4996528625488281,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T05:38:00-06:00",
-                    "time": "05:38:00"
-                },
-                {
-                    "pair": "EURUSD",
-                    "type": "HIGH",
-                    "pips": 19.990205764770508,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:49:00-06:00",
-                    "time": "02:49:00"
-                },
-                {
-                    "pair": "USDJPY",
-                    "type": "LOW",
-                    "pips": 3800.048828125,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:44:00-06:00",
-                    "time": "02:44:00"
-                },
-                {
-                    "pair": "GBPUSD",
-                    "type": "HIGH",
-                    "pips": 11.903047561645508,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T03:35:00-06:00",
-                    "time": "03:35:00"
-                },
-                {
-                    "pair": "USDCHF",
-                    "type": "HIGH",
-                    "pips": 7.399916648864746,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T03:58:00-06:00",
-                    "time": "03:58:00"
-                },
-                {
                     "pair": "NZDUSD",
                     "type": "LOW",
                     "pips": 0.6258487701416016,
@@ -93,177 +13,25 @@
                     "time": "05:39:00"
                 },
                 {
-                    "pair": "EURNZD",
-                    "type": "HIGH",
-                    "pips": 36.29922866821289,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:14:00-06:00",
-                    "time": "02:14:00"
-                },
-                {
-                    "pair": "EURCHF",
-                    "type": "HIGH",
-                    "pips": 24.499893188476562,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:33:00-06:00",
-                    "time": "02:33:00"
-                },
-                {
-                    "pair": "EURAUD",
-                    "type": "HIGH",
-                    "pips": 35.599470138549805,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:49:00-06:00",
-                    "time": "02:49:00"
-                },
-                {
-                    "pair": "EURGBP",
-                    "type": "HIGH",
-                    "pips": 4.5996904373168945,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:51:00-06:00",
-                    "time": "02:51:00"
-                },
-                {
-                    "pair": "GBPNZD",
-                    "type": "HIGH",
-                    "pips": 10.600090026855469,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:04:00-06:00",
-                    "time": "02:04:00"
-                },
-                {
-                    "pair": "GBPCHF",
-                    "type": "HIGH",
-                    "pips": 20.30014991760254,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T03:38:00-06:00",
-                    "time": "03:38:00"
-                },
-                {
-                    "pair": "GBPAUD",
-                    "type": "HIGH",
-                    "pips": 15.299320220947266,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T03:47:00-06:00",
-                    "time": "03:47:00"
-                },
-                {
-                    "pair": "NZDCHF",
-                    "type": "HIGH",
-                    "pips": 0.40024518966674805,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T04:29:00-06:00",
-                    "time": "04:29:00"
-                },
-                {
-                    "pair": "NZDCHF",
-                    "type": "LOW",
-                    "pips": 0.4997849464416504,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:04:00-06:00",
-                    "time": "02:04:00"
-                },
-                {
-                    "pair": "AUDNZD",
-                    "type": "HIGH",
-                    "pips": 1.3995170593261719,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:27:00-06:00",
-                    "time": "02:27:00"
-                },
-                {
-                    "pair": "AUDCHF",
-                    "type": "HIGH",
-                    "pips": 5.599856376647949,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T03:58:00-06:00",
-                    "time": "03:58:00"
-                },
-                {
-                    "pair": "AUDCHF",
-                    "type": "LOW",
-                    "pips": 0.6002187728881836,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:04:00-06:00",
-                    "time": "02:04:00"
-                },
-                {
                     "pair": "AUDUSD",
                     "type": "LOW",
                     "pips": 3.3271312713623047,
                     "previousSession": "ASIA",
                     "timestamp": "2025-11-25T05:19:00-06:00",
                     "time": "05:19:00"
-                },
-                {
-                    "pair": "CADJPY",
-                    "type": "LOW",
-                    "pips": 2469.940185546875,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:45:00-06:00",
-                    "time": "02:45:00"
-                },
-                {
-                    "pair": "EURJPY",
-                    "type": "HIGH",
-                    "pips": 1949.920654296875,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T06:43:00-06:00",
-                    "time": "06:43:00"
-                },
-                {
-                    "pair": "EURJPY",
-                    "type": "LOW",
-                    "pips": 3000.030517578125,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:54:00-06:00",
-                    "time": "02:54:00"
-                },
-                {
-                    "pair": "GBPJPY",
-                    "type": "HIGH",
-                    "pips": 579.986572265625,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:00:00-06:00",
-                    "time": "02:00:00"
-                },
-                {
-                    "pair": "GBPJPY",
-                    "type": "LOW",
-                    "pips": 2350.006103515625,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:49:00-06:00",
-                    "time": "02:49:00"
-                },
-                {
-                    "pair": "CHFJPY",
-                    "type": "LOW",
-                    "pips": 5709.991455078125,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:39:00-06:00",
-                    "time": "02:39:00"
-                },
-                {
-                    "pair": "AUDJPY",
-                    "type": "LOW",
-                    "pips": 1789.9322509765625,
-                    "previousSession": "ASIA",
-                    "timestamp": "2025-11-25T02:49:00-06:00",
-                    "time": "02:49:00"
                 }
             ]
         }
     },
-    "currentSession": "LONDON",
+    "currentSession": "NY",
     "correlations": {
-        "USD": 0.2648359718326201,
-        "EUR": 0.29705855259907843,
-        "GBP": 0.3421572694944728,
-        "CAD": 0.1365238501664106,
-        "CHF": 0.3355868272907956,
-        "AUD": 0.3976286671813244,
-        "NZD": 0.4300270465856996,
-        "JPY": 0.7247999336833745
+        "USD": 0.2634239947006093,
+        "EUR": 0.29841095950373187,
+        "GBP": 0.34278343887430524,
+        "CAD": 0.13625912970642393,
+        "CHF": 0.3332863350904517,
+        "AUD": 0.3948094549692228,
+        "NZD": 0.42832386622757107,
+        "JPY": 0.7229840468488659
     }
 }
