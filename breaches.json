@@ -15,7 +15,7 @@
                 {
                     "pair": "EURCAD",
                     "type": "HIGH",
-                    "pips": 23.69999885559082,
+                    "pips": 25.39992332458496,
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:06:00-06:00",
                     "time": "02:06:00"
@@ -47,7 +47,7 @@
                 {
                     "pair": "AUDCAD",
                     "type": "HIGH",
-                    "pips": 4.200339317321777,
+                    "pips": 4.900097846984863,
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:07:00-06:00",
                     "time": "02:07:00"
@@ -63,7 +63,7 @@
                 {
                     "pair": "EURUSD",
                     "type": "HIGH",
-                    "pips": 9.456872940063477,
+                    "pips": 10.809898376464844,
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:15:00-06:00",
                     "time": "02:15:00"
@@ -71,7 +71,7 @@
                 {
                     "pair": "USDJPY",
                     "type": "LOW",
-                    "pips": 709.991455078125,
+                    "pips": 1429.901123046875,
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:17:00-06:00",
                     "time": "02:17:00"
@@ -95,10 +95,18 @@
                 {
                     "pair": "EURNZD",
                     "type": "HIGH",
-                    "pips": 2.300739288330078,
+                    "pips": 10.800361633300781,
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:34:00-06:00",
                     "time": "02:34:00"
+                },
+                {
+                    "pair": "EURCHF",
+                    "type": "HIGH",
+                    "pips": 3.400444984436035,
+                    "previousSession": "ASIA",
+                    "timestamp": "2025-12-01T04:22:00-06:00",
+                    "time": "04:22:00"
                 },
                 {
                     "pair": "EURAUD",
@@ -149,9 +157,17 @@
                     "time": "02:17:00"
                 },
                 {
+                    "pair": "AUDNZD",
+                    "type": "HIGH",
+                    "pips": 2.0003318786621094,
+                    "previousSession": "ASIA",
+                    "timestamp": "2025-12-01T04:24:00-06:00",
+                    "time": "04:24:00"
+                },
+                {
                     "pair": "CADJPY",
                     "type": "LOW",
-                    "pips": 909.9578857421875,
+                    "pips": 1419.98291015625,
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:02:00-06:00",
                     "time": "02:02:00"
@@ -163,19 +179,27 @@
                     "previousSession": "ASIA",
                     "timestamp": "2025-12-01T02:00:00-06:00",
                     "time": "02:00:00"
+                },
+                {
+                    "pair": "CHFJPY",
+                    "type": "LOW",
+                    "pips": 369.873046875,
+                    "previousSession": "ASIA",
+                    "timestamp": "2025-12-01T04:26:00-06:00",
+                    "time": "04:26:00"
                 }
             ]
         }
     },
     "currentSession": "LONDON",
     "correlations": {
-        "USD": 0.2266903441518832,
-        "EUR": 0.16372796017730887,
-        "GBP": 0.32533752986732367,
-        "CAD": 0.19805831260466666,
-        "CHF": 0.39822092186134095,
-        "AUD": 0.37313186224333034,
-        "NZD": 0.352107458764472,
-        "JPY": 0.7494312771942456
+        "USD": 0.2254832469332167,
+        "EUR": 0.16308168324821248,
+        "GBP": 0.32740833121823687,
+        "CAD": 0.19716713525844437,
+        "CHF": 0.4235329030601728,
+        "AUD": 0.3692905674341952,
+        "NZD": 0.34540458657442064,
+        "JPY": 0.7405668168433106
     }
 }
