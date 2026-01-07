@@ -1,12 +1,20 @@
 {
     "scoreMatrix": [
         {
-            "currency": "USD",
+            "currency": "EUR",
+            "scores": [
+                3
+            ],
+            "avg": 3.0
+        },
+        {
+            "currency": "AUD",
             "scores": [
                 0,
-                -4
+                -3,
+                0
             ],
-            "avg": -2.0
+            "avg": -1.0
         }
     ]
 }
