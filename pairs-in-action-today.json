@@ -1,11 +1,23 @@
 {
     "scoreMatrix": [
         {
-            "currency": "USD",
+            "currency": "CAD",
             "scores": [
+                -2,
                 -3
             ],
-            "avg": -3.0
+            "avg": -2.5
+        },
+        {
+            "currency": "USD",
+            "scores": [
+                3,
+                -5,
+                3,
+                2,
+                0
+            ],
+            "avg": 0.6
         }
     ]
 }
