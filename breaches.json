@@ -103,7 +103,7 @@
                 {
                     "pair": "GBPUSD",
                     "type": "LOW",
-                    "pips": 5.432367324829102,
+                    "pips": 6.700754165649414,
                     "previousSession": "LONDON",
                     "timestamp": "2026-01-13T07:10:00-06:00",
                     "time": "07:10:00"
@@ -134,6 +134,14 @@
                 },
                 {
                     "pair": "EURNZD",
+                    "type": "HIGH",
+                    "pips": 13.799667358398438,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-01-13T09:02:00-06:00",
+                    "time": "09:02:00"
+                },
+                {
+                    "pair": "EURNZD",
                     "type": "LOW",
                     "pips": 22.799968719482422,
                     "previousSession": "LONDON",
@@ -150,6 +158,14 @@
                 },
                 {
                     "pair": "EURAUD",
+                    "type": "HIGH",
+                    "pips": 19.70052719116211,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-01-13T09:02:00-06:00",
+                    "time": "09:02:00"
+                },
+                {
+                    "pair": "EURAUD",
                     "type": "LOW",
                     "pips": 35.599470138549805,
                     "previousSession": "LONDON",
@@ -159,10 +175,10 @@
                 {
                     "pair": "EURGBP",
                     "type": "HIGH",
-                    "pips": 5.700588226318359,
+                    "pips": 6.70015811920166,
                     "previousSession": "LONDON",
-                    "timestamp": "2026-01-13T08:02:00-06:00",
-                    "time": "08:02:00"
+                    "timestamp": "2026-01-13T08:03:00-06:00",
+                    "time": "08:03:00"
                 },
                 {
                     "pair": "EURGBP",
@@ -195,6 +211,14 @@
                     "previousSession": "LONDON",
                     "timestamp": "2026-01-13T07:30:00-06:00",
                     "time": "07:30:00"
+                },
+                {
+                    "pair": "GBPAUD",
+                    "type": "HIGH",
+                    "pips": 2.0003318786621094,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-01-13T09:03:00-06:00",
+                    "time": "09:03:00"
                 },
                 {
                     "pair": "GBPAUD",
@@ -255,7 +279,7 @@
                 {
                     "pair": "AUDUSD",
                     "type": "LOW",
-                    "pips": 0.4488229751586914,
+                    "pips": 2.244114875793457,
                     "previousSession": "LONDON",
                     "timestamp": "2026-01-13T08:56:00-06:00",
                     "time": "08:56:00"
@@ -307,19 +331,27 @@
                     "previousSession": "LONDON",
                     "timestamp": "2026-01-13T07:30:00-06:00",
                     "time": "07:30:00"
+                },
+                {
+                    "pair": "AUDJPY",
+                    "type": "LOW",
+                    "pips": 1079.9407958984375,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-01-13T09:02:00-06:00",
+                    "time": "09:02:00"
                 }
             ]
         }
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.39760793519647125,
-        "EUR": 0.1291753451163956,
-        "GBP": 0.24627139048437538,
-        "CAD": 0.2052305111599926,
-        "CHF": 0.2698509952838723,
-        "AUD": 0.41395143540997975,
-        "NZD": 0.43321355511071685,
-        "JPY": 0.627590242870999
+        "USD": 0.3964759608933482,
+        "EUR": 0.13231388073021008,
+        "GBP": 0.24743987005503887,
+        "CAD": 0.20061667134403824,
+        "CHF": 0.2724129326866345,
+        "AUD": 0.4155406475698475,
+        "NZD": 0.4354758318135584,
+        "JPY": 0.6230814388404028
     }
 }
