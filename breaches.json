@@ -77,6 +77,22 @@
                     "time": "07:09:00"
                 },
                 {
+                    "pair": "EURUSD",
+                    "type": "HIGH",
+                    "pips": 2.7036666870117188,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-01-16T09:07:00-06:00",
+                    "time": "09:07:00"
+                },
+                {
+                    "pair": "EURUSD",
+                    "type": "LOW",
+                    "pips": 21.532773971557617,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-01-16T09:24:00-06:00",
+                    "time": "09:24:00"
+                },
+                {
                     "pair": "USDJPY",
                     "type": "HIGH",
                     "pips": 110.015869140625,
@@ -265,8 +281,8 @@
     },
     "currentSession": "ASIA",
     "correlations": {
-        "USD": 0.16509247362704565,
-        "EUR": 0.25603527349660493,
+        "USD": 0.1763263341137057,
+        "EUR": 0.18498798261327223,
         "GBP": 0.25017267089413386,
         "CAD": 0.2172200035546171,
         "CHF": 0.35735956497328647,
