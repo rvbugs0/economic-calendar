@@ -1,13 +1,60 @@
 {
-    "sessions": {},
+    "sessions": {
+        "NY": {
+            "name": "NY",
+            "timeRange": "7:00 AM - 5:00 PM CT",
+            "breaches": [
+                {
+                    "pair": "GBPCAD",
+                    "type": "LOW",
+                    "pips": 46.80037498474121,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-02-02T07:03:00-06:00",
+                    "time": "07:03:00"
+                },
+                {
+                    "pair": "EURAUD",
+                    "type": "LOW",
+                    "pips": 70.60050964355469,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-02-02T07:38:00-06:00",
+                    "time": "07:38:00"
+                },
+                {
+                    "pair": "GBPCHF",
+                    "type": "HIGH",
+                    "pips": 21.10004425048828,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-02-02T07:40:00-06:00",
+                    "time": "07:40:00"
+                },
+                {
+                    "pair": "AUDNZD",
+                    "type": "HIGH",
+                    "pips": 18.6002254486084,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-02-02T07:30:00-06:00",
+                    "time": "07:30:00"
+                },
+                {
+                    "pair": "AUDCHF",
+                    "type": "HIGH",
+                    "pips": 30.899643898010254,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-02-02T07:29:00-06:00",
+                    "time": "07:29:00"
+                }
+            ]
+        }
+    },
     "currentSession": "NY",
     "correlations": {
         "USD": null,
         "EUR": null,
-        "GBP": null,
+        "GBP": 0.16090543337390986,
         "CAD": null,
-        "CHF": null,
-        "AUD": null,
+        "CHF": 0.4900121378203161,
+        "AUD": 0.6484688854104915,
         "NZD": null,
         "JPY": null
     }
