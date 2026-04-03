@@ -3,9 +3,49 @@
         {
             "currency": "EUR",
             "scores": [
+                3,
+                -3,
                 3
             ],
-            "avg": 3.0
+            "avg": 1.0
+        },
+        {
+            "currency": "JPY",
+            "scores": [
+                -3
+            ],
+            "avg": -3.0
+        },
+        {
+            "currency": "CAD",
+            "scores": [
+                -3
+            ],
+            "avg": -3.0
+        },
+        {
+            "currency": "USD",
+            "scores": [
+                2,
+                2,
+                -3,
+                -3,
+                2,
+                2,
+                2,
+                3,
+                -3,
+                3,
+                3
+            ],
+            "avg": 0.9090909090909091
+        },
+        {
+            "currency": "CHF",
+            "scores": [
+                -3
+            ],
+            "avg": -3.0
         }
     ]
 }
