@@ -1,14 +1,77 @@
 {
-    "sessions": {},
-    "currentSession": "NY",
+    "sessions": {
+        "ASIA": {
+            "name": "ASIA",
+            "timeRange": "7:00 PM - 2:00 AM CT",
+            "breaches": [
+                {
+                    "pair": "EURCAD",
+                    "type": "HIGH",
+                    "pips": 1.6999244689941406,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:03:00-05:00",
+                    "time": "19:03:00"
+                },
+                {
+                    "pair": "EURUSD",
+                    "type": "HIGH",
+                    "pips": 1.3649463653564453,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:00:00-05:00",
+                    "time": "19:00:00"
+                },
+                {
+                    "pair": "EURNZD",
+                    "type": "LOW",
+                    "pips": 1.1014938354492188,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:03:00-05:00",
+                    "time": "19:03:00"
+                },
+                {
+                    "pair": "EURCHF",
+                    "type": "HIGH",
+                    "pips": 0.10013580322265625,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:04:00-05:00",
+                    "time": "19:04:00"
+                },
+                {
+                    "pair": "EURGBP",
+                    "type": "HIGH",
+                    "pips": 0.6002187728881836,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:02:00-05:00",
+                    "time": "19:02:00"
+                },
+                {
+                    "pair": "GBPNZD",
+                    "type": "LOW",
+                    "pips": 2.9993057250976562,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:03:00-05:00",
+                    "time": "19:03:00"
+                },
+                {
+                    "pair": "NZDCHF",
+                    "type": "HIGH",
+                    "pips": 0.19997358322143555,
+                    "previousSession": "NY",
+                    "timestamp": "2026-04-12T19:03:00-05:00",
+                    "time": "19:03:00"
+                }
+            ]
+        }
+    },
+    "currentSession": "ASIA",
     "correlations": {
-        "USD": 0.11452988410546029,
-        "EUR": 0.1285072078609192,
-        "GBP": 0.2679992907598245,
-        "CAD": 0.05564049424182237,
-        "CHF": 0.3155152419175976,
-        "AUD": 0.35850546683465684,
-        "NZD": 0.22764754650641764,
-        "JPY": 0.45260910707943275
+        "USD": 0.12197697752947265,
+        "EUR": 0.12281079609459981,
+        "GBP": 0.2685186198447471,
+        "CAD": 0.08218084027398566,
+        "CHF": 0.3270787647174845,
+        "AUD": 0.3567277022860171,
+        "NZD": 0.1769476906635519,
+        "JPY": 0.445429373954603
     }
 }
