@@ -10,9 +10,10 @@
         {
             "currency": "USD",
             "scores": [
-                2
+                2,
+                0
             ],
-            "avg": 2.0
+            "avg": 1.0
         },
         {
             "currency": "AUD",
@@ -29,6 +30,13 @@
                 -3
             ],
             "avg": -3.0
+        },
+        {
+            "currency": "CAD",
+            "scores": [
+                0
+            ],
+            "avg": 0.0
         }
     ]
 }
