@@ -7,7 +7,7 @@
                 {
                     "pair": "USDCAD",
                     "type": "HIGH",
-                    "pips": 0.29921531677246094,
+                    "pips": 0.7998943328857422,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:22:00-05:00",
                     "time": "07:22:00"
@@ -15,7 +15,7 @@
                 {
                     "pair": "GBPCAD",
                     "type": "LOW",
-                    "pips": 0.30040740966796875,
+                    "pips": 4.600286483764648,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:16:00-05:00",
                     "time": "07:16:00"
@@ -29,9 +29,17 @@
                     "time": "07:06:00"
                 },
                 {
+                    "pair": "EURUSD",
+                    "type": "LOW",
+                    "pips": 1.3303756713867188,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-09-16T07:27:00-05:00",
+                    "time": "07:27:00"
+                },
+                {
                     "pair": "GBPUSD",
                     "type": "LOW",
-                    "pips": 6.154775619506836,
+                    "pips": 6.334781646728516,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:08:00-05:00",
                     "time": "07:08:00"
@@ -39,7 +47,7 @@
                 {
                     "pair": "EURNZD",
                     "type": "LOW",
-                    "pips": 0.30040740966796875,
+                    "pips": 2.4008750915527344,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:15:00-05:00",
                     "time": "07:15:00"
@@ -55,7 +63,7 @@
                 {
                     "pair": "GBPNZD",
                     "type": "LOW",
-                    "pips": 1.5997886657714844,
+                    "pips": 2.9993057250976562,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:15:00-05:00",
                     "time": "07:15:00"
@@ -63,7 +71,7 @@
                 {
                     "pair": "GBPCHF",
                     "type": "LOW",
-                    "pips": 2.300739288330078,
+                    "pips": 7.100105285644531,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:17:00-05:00",
                     "time": "07:17:00"
@@ -71,7 +79,7 @@
                 {
                     "pair": "GBPAUD",
                     "type": "LOW",
-                    "pips": 0.09894371032714844,
+                    "pips": 16.59989356994629,
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:20:00-05:00",
                     "time": "07:20:00"
@@ -91,19 +99,27 @@
                     "previousSession": "LONDON",
                     "timestamp": "2026-09-16T07:05:00-05:00",
                     "time": "07:05:00"
+                },
+                {
+                    "pair": "CHFJPY",
+                    "type": "HIGH",
+                    "pips": 139.923095703125,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-09-16T07:24:00-05:00",
+                    "time": "07:24:00"
                 }
             ]
         }
     },
     "currentSession": "NY",
     "correlations": {
-        "USD": 0.28232591152442277,
-        "EUR": 0.12921805144901716,
-        "GBP": 0.2401633997029285,
-        "CAD": 0.13863414284791345,
-        "CHF": 0.21861963092447695,
-        "AUD": 0.20293054878872224,
-        "NZD": 0.4059482392190572,
-        "JPY": 0.7193237717242635
+        "USD": 0.2807863395453755,
+        "EUR": 0.1318363356568464,
+        "GBP": 0.23886731738827716,
+        "CAD": 0.13555442724523198,
+        "CHF": 0.21819224536674428,
+        "AUD": 0.20493038964984167,
+        "NZD": 0.4043067779541719,
+        "JPY": 0.7177400314653812
     }
 }
