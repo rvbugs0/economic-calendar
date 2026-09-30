@@ -1,277 +1,285 @@
 {
     "sessions": {
-        "NY": {
-            "name": "NY",
-            "timeRange": "7:00 AM - 5:00 PM CT",
+        "ASIA": {
+            "name": "ASIA",
+            "timeRange": "7:00 PM - 2:00 AM CT",
             "breaches": [
                 {
                     "pair": "USDCAD",
-                    "type": "LOW",
-                    "pips": 6.000995635986328,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:01:00-05:00",
-                    "time": "07:01:00"
+                    "type": "HIGH",
+                    "pips": 2.0003318786621094,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:02:00-05:00",
+                    "time": "19:02:00"
                 },
                 {
                     "pair": "EURCAD",
-                    "type": "LOW",
-                    "pips": 27.899742126464844,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:41:00-05:00",
-                    "time": "07:41:00"
+                    "type": "HIGH",
+                    "pips": 0.29921531677246094,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:01:00-05:00",
+                    "time": "19:01:00"
                 },
                 {
                     "pair": "GBPCAD",
-                    "type": "LOW",
-                    "pips": 27.69947052001953,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:29:00-05:00",
-                    "time": "07:29:00"
+                    "type": "HIGH",
+                    "pips": 1.6999244689941406,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:55:00-05:00",
+                    "time": "19:55:00"
                 },
                 {
                     "pair": "CADCHF",
+                    "type": "LOW",
+                    "pips": 1.0001659393310547,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:03:00-05:00",
+                    "time": "19:03:00"
+                },
+                {
+                    "pair": "AUDCAD",
                     "type": "HIGH",
-                    "pips": 5.599856376647949,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T08:35:00-05:00",
-                    "time": "08:35:00"
+                    "pips": 1.9997358322143555,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:49:00-05:00",
+                    "time": "19:49:00"
                 },
                 {
                     "pair": "AUDCAD",
                     "type": "LOW",
-                    "pips": 20.200014114379883,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T08:11:00-05:00",
-                    "time": "08:11:00"
+                    "pips": 2.300143241882324,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:06:00-05:00",
+                    "time": "19:06:00"
                 },
                 {
                     "pair": "NZDCAD",
-                    "type": "LOW",
-                    "pips": 17.699599266052246,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T08:19:00-05:00",
-                    "time": "08:19:00"
+                    "type": "HIGH",
+                    "pips": 2.599954605102539,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:18:00-05:00",
+                    "time": "19:18:00"
                 },
                 {
                     "pair": "EURUSD",
                     "type": "LOW",
-                    "pips": 19.245147705078125,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T10:24:00-05:00",
-                    "time": "10:24:00"
+                    "pips": 1.2862682342529297,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:54:00-05:00",
+                    "time": "19:54:00"
                 },
                 {
                     "pair": "USDJPY",
                     "type": "LOW",
-                    "pips": 1510.009765625,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:01:00-05:00",
-                    "time": "07:01:00"
+                    "pips": 2949.981689453125,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:18:00-05:00",
+                    "time": "19:18:00"
                 },
                 {
                     "pair": "GBPUSD",
                     "type": "HIGH",
-                    "pips": 6.4945220947265625,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:00:00-05:00",
-                    "time": "07:00:00"
-                },
-                {
-                    "pair": "GBPUSD",
-                    "type": "LOW",
-                    "pips": 19.55270767211914,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T08:34:00-05:00",
-                    "time": "08:34:00"
-                },
-                {
-                    "pair": "USDCHF",
-                    "type": "HIGH",
-                    "pips": 8.900165557861328,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T10:23:00-05:00",
-                    "time": "10:23:00"
+                    "pips": 1.0514259338378906,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:56:00-05:00",
+                    "time": "19:56:00"
                 },
                 {
                     "pair": "USDCHF",
                     "type": "LOW",
-                    "pips": 0.7998943328857422,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:04:00-05:00",
-                    "time": "07:04:00"
+                    "pips": 1.9997358322143555,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:00:00-05:00",
+                    "time": "19:00:00"
                 },
                 {
                     "pair": "NZDUSD",
-                    "type": "LOW",
-                    "pips": 15.56396484375,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T09:43:00-05:00",
-                    "time": "09:43:00"
+                    "type": "HIGH",
+                    "pips": 1.5920400619506836,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:29:00-05:00",
+                    "time": "19:29:00"
                 },
                 {
                     "pair": "EURNZD",
-                    "type": "HIGH",
-                    "pips": 25.1007080078125,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T09:32:00-05:00",
-                    "time": "09:32:00"
+                    "type": "LOW",
+                    "pips": 7.002353668212891,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:15:00-05:00",
+                    "time": "19:15:00"
                 },
                 {
                     "pair": "EURCHF",
                     "type": "LOW",
-                    "pips": 1.2999773025512695,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T13:05:00-05:00",
-                    "time": "13:05:00"
+                    "pips": 2.3996829986572266,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:02:00-05:00",
+                    "time": "19:02:00"
+                },
+                {
+                    "pair": "EURAUD",
+                    "type": "HIGH",
+                    "pips": 7.499456405639648,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:03:00-05:00",
+                    "time": "19:03:00"
+                },
+                {
+                    "pair": "EURAUD",
+                    "type": "LOW",
+                    "pips": 5.099773406982422,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:45:00-05:00",
+                    "time": "19:45:00"
                 },
                 {
                     "pair": "EURGBP",
                     "type": "HIGH",
-                    "pips": 1.2999773025512695,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T10:09:00-05:00",
-                    "time": "10:09:00"
+                    "pips": 0.10013580322265625,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:02:00-05:00",
+                    "time": "19:02:00"
                 },
                 {
                     "pair": "EURGBP",
                     "type": "LOW",
-                    "pips": 1.6999244689941406,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T11:58:00-05:00",
-                    "time": "11:58:00"
+                    "pips": 1.500248908996582,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:00:00-05:00",
+                    "time": "19:00:00"
                 },
                 {
                     "pair": "GBPNZD",
-                    "type": "HIGH",
-                    "pips": 30.300617218017578,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T09:45:00-05:00",
-                    "time": "09:45:00"
+                    "type": "LOW",
+                    "pips": 6.201267242431641,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:17:00-05:00",
+                    "time": "19:17:00"
                 },
                 {
                     "pair": "GBPCHF",
                     "type": "LOW",
-                    "pips": 1.9991397857666016,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:45:00-05:00",
-                    "time": "07:45:00"
+                    "pips": 0.6997585296630859,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:02:00-05:00",
+                    "time": "19:02:00"
                 },
                 {
                     "pair": "GBPAUD",
                     "type": "HIGH",
-                    "pips": 9.10043716430664,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T11:30:00-05:00",
-                    "time": "11:30:00"
+                    "pips": 8.200407028198242,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:03:00-05:00",
+                    "time": "19:03:00"
+                },
+                {
+                    "pair": "GBPAUD",
+                    "type": "LOW",
+                    "pips": 3.699064254760742,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:16:00-05:00",
+                    "time": "19:16:00"
                 },
                 {
                     "pair": "NZDCHF",
-                    "type": "LOW",
-                    "pips": 8.399784564971924,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T08:05:00-05:00",
-                    "time": "08:05:00"
+                    "type": "HIGH",
+                    "pips": 2.0000338554382324,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:29:00-05:00",
+                    "time": "19:29:00"
                 },
                 {
                     "pair": "AUDNZD",
-                    "type": "HIGH",
-                    "pips": 10.399818420410156,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:01:00-05:00",
-                    "time": "07:01:00"
+                    "type": "LOW",
+                    "pips": 4.500150680541992,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:05:00-05:00",
+                    "time": "19:05:00"
                 },
                 {
                     "pair": "AUDCHF",
                     "type": "HIGH",
-                    "pips": 0.10013580322265625,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:11:00-05:00",
-                    "time": "07:11:00"
+                    "pips": 0.9995698928833008,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T20:04:00-05:00",
+                    "time": "20:04:00"
                 },
                 {
                     "pair": "AUDCHF",
                     "type": "LOW",
-                    "pips": 0.10013580322265625,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T11:50:00-05:00",
-                    "time": "11:50:00"
+                    "pips": 3.1000375747680664,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:03:00-05:00",
+                    "time": "19:03:00"
                 },
                 {
                     "pair": "AUDUSD",
                     "type": "HIGH",
-                    "pips": 2.9462575912475586,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:01:00-05:00",
-                    "time": "07:01:00"
+                    "pips": 0.9775161743164062,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:55:00-05:00",
+                    "time": "19:55:00"
                 },
                 {
                     "pair": "AUDUSD",
                     "type": "LOW",
-                    "pips": 13.625621795654297,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T10:08:00-05:00",
-                    "time": "10:08:00"
-                },
-                {
-                    "pair": "CADJPY",
-                    "type": "HIGH",
-                    "pips": 29.9835205078125,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T10:19:00-05:00",
-                    "time": "10:19:00"
+                    "pips": 2.440214157104492,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:04:00-05:00",
+                    "time": "19:04:00"
                 },
                 {
                     "pair": "CADJPY",
                     "type": "LOW",
-                    "pips": 29.9835205078125,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:04:00-05:00",
-                    "time": "07:04:00"
+                    "pips": 2070.00732421875,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:09:00-05:00",
+                    "time": "19:09:00"
                 },
                 {
                     "pair": "EURJPY",
                     "type": "LOW",
-                    "pips": 2559.967041015625,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:03:00-05:00",
-                    "time": "07:03:00"
+                    "pips": 3789.97802734375,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:17:00-05:00",
+                    "time": "19:17:00"
                 },
                 {
                     "pair": "GBPJPY",
                     "type": "LOW",
-                    "pips": 1799.9267578125,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:04:00-05:00",
-                    "time": "07:04:00"
+                    "pips": 3889.923095703125,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:17:00-05:00",
+                    "time": "19:17:00"
                 },
                 {
                     "pair": "CHFJPY",
                     "type": "LOW",
-                    "pips": 1909.942626953125,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T07:04:00-05:00",
-                    "time": "07:04:00"
+                    "pips": 3670.0439453125,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:18:00-05:00",
+                    "time": "19:18:00"
                 },
                 {
                     "pair": "AUDJPY",
                     "type": "LOW",
-                    "pips": 2070.00732421875,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-09-29T10:54:00-05:00",
-                    "time": "10:54:00"
+                    "pips": 1650.0091552734375,
+                    "previousSession": "NY",
+                    "timestamp": "2026-09-29T19:05:00-05:00",
+                    "time": "19:05:00"
                 }
             ]
         }
     },
-    "currentSession": "NY",
+    "currentSession": "ASIA",
     "correlations": {
-        "USD": 0.3321646683157174,
-        "EUR": 0.15923472823279414,
-        "GBP": 0.18928568879447083,
-        "CAD": 0.19415817696063395,
-        "CHF": 0.1972764669235755,
-        "AUD": 0.3862349182157807,
-        "NZD": 0.4375653076207366,
-        "JPY": 0.6688339291873155
+        "USD": 0.28857042302959074,
+        "EUR": 0.12231984181139974,
+        "GBP": 0.057337979964797114,
+        "CAD": 0.09161762146615189,
+        "CHF": 0.12324017700172667,
+        "AUD": 0.3189792388653985,
+        "NZD": 0.32231316571002605,
+        "JPY": 0.8590647486051594
     }
 }
