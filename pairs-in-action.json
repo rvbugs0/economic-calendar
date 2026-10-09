@@ -1,48 +1,23 @@
 {
     "scoreMatrix": [
         {
-            "currency": "AUD",
+            "currency": "USD",
             "scores": [
+                -2,
                 3,
-                -3,
-                3,
-                -3
+                -2,
+                2
             ],
-            "avg": 0.0
+            "avg": 0.25
         },
         {
             "currency": "CAD",
             "scores": [
-                -3
-            ],
-            "avg": -3.0
-        },
-        {
-            "currency": "USD",
-            "scores": [
                 -4,
-                -3,
-                3,
-                -3,
-                3,
-                2,
-                3
-            ],
-            "avg": 0.14285714285714285
-        },
-        {
-            "currency": "EUR",
-            "scores": [
-                3
-            ],
-            "avg": 3.0
-        },
-        {
-            "currency": "CHF",
-            "scores": [
+                -4,
                 -3
             ],
-            "avg": -3.0
+            "avg": -3.6666666666666665
         }
     ]
 }
