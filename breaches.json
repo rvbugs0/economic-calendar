@@ -5,22 +5,6 @@
             "timeRange": "7:00 AM - 5:00 PM CT",
             "breaches": [
                 {
-                    "pair": "USDCAD",
-                    "type": "HIGH",
-                    "pips": 5.599260330200195,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-10-30T08:15:00-05:00",
-                    "time": "08:15:00"
-                },
-                {
-                    "pair": "USDCAD",
-                    "type": "LOW",
-                    "pips": 9.999275207519531,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-10-30T07:22:00-05:00",
-                    "time": "07:22:00"
-                },
-                {
                     "pair": "EURCAD",
                     "type": "LOW",
                     "pips": 64.60070610046387,
@@ -91,6 +75,14 @@
                     "previousSession": "LONDON",
                     "timestamp": "2026-10-30T08:18:00-05:00",
                     "time": "08:18:00"
+                },
+                {
+                    "pair": "NZDUSD",
+                    "type": "LOW",
+                    "pips": 8.550286293029785,
+                    "previousSession": "LONDON",
+                    "timestamp": "2026-10-30T08:46:00-05:00",
+                    "time": "08:46:00"
                 },
                 {
                     "pair": "EURNZD",
@@ -239,15 +231,15 @@
             ]
         }
     },
-    "currentSession": "LONDON",
+    "currentSession": "NY",
     "correlations": {
-        "USD": 0.3431968309036226,
+        "USD": 0.380660113382598,
         "EUR": 0.2725089928878881,
         "GBP": 0.22397980710921056,
-        "CAD": 0.2773216622331745,
+        "CAD": 0.33172912731882254,
         "CHF": 0.5191986649418796,
         "AUD": 0.4642144413153789,
-        "NZD": 0.4831977801413506,
+        "NZD": 0.49353183807120404,
         "JPY": 0.7008059447744608
     }
 }
