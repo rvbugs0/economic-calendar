@@ -1,29 +1,14 @@
 {
-    "sessions": {
-        "NY": {
-            "name": "NY",
-            "timeRange": "7:00 AM - 5:00 PM CT",
-            "breaches": [
-                {
-                    "pair": "GBPCHF",
-                    "type": "HIGH",
-                    "pips": 22.59969711303711,
-                    "previousSession": "LONDON",
-                    "timestamp": "2026-11-03T08:15:00-06:00",
-                    "time": "08:15:00"
-                }
-            ]
-        }
-    },
+    "sessions": {},
     "currentSession": "NY",
     "correlations": {
-        "USD": null,
-        "EUR": 0.2233027241657092,
-        "GBP": null,
-        "CAD": 0.1448352329079444,
-        "CHF": null,
-        "AUD": null,
-        "NZD": null,
-        "JPY": 0.3051197875544691
+        "USD": 0.4464796874125875,
+        "EUR": 0.32500872399520003,
+        "GBP": -0.0007041860248684772,
+        "CAD": 0.16288359693572532,
+        "CHF": 0.6367668426663491,
+        "AUD": 0.475639781782646,
+        "NZD": 0.3003408439212112,
+        "JPY": 0.39154458136340914
     }
 }
